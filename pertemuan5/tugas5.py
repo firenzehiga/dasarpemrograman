@@ -23,7 +23,7 @@ print()
 print('< Program Match Case Bangun Datar  >')
 print('====================================')
 
-pilihan = int(input("Pilih Bangun Datar (1: persegi, 2: lingkaran, 3: segitiga): "))
+pilihan = int(input("Pilih Bangun Datar ***1: persegi, 2: lingkaran, 3: segitiga): "))
 
 # Latihan o 2
 match pilihan:
