@@ -1,7 +1,6 @@
 
 # Latihan No 1
-
-print('< Program Operasi pada List Kendaraan  >')
+print('< Program List Kendaraan  >')
 print('====================================')
 
 vehicleList = ["YZF R1", "Sport", 988, "Merah", 2]
@@ -20,12 +19,12 @@ print("Nama  :",vehicleList[0],
 print()
 
 
+# Latihan No 2
 print('< Program Match Case Bangun Datar  >')
 print('====================================')
 
 pilihan = int(input("Pilih Bangun Datar ***1: persegi, 2: lingkaran, 3: segitiga): "))
 
-# Latihan o 2
 match pilihan:
         case 1:
             sisi = float(input("Masukkan sisi persegi: "))
