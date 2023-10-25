@@ -20,7 +20,7 @@ print()
 
 
 # Latihan No 2
-print('< Program Match Case Bangun Datar  >')
+print('< Program Condition Match Case Bangun Datar  >')
 print('====================================')
 
 pilihan = int(input("Pilih Bangun Datar ***1: persegi, 2: lingkaran, 3: segitiga): "))
