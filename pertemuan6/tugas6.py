@@ -47,4 +47,3 @@ for i in range(1,jumlah_baris + 1):
         print("*", end="")
     print() 
 
-print()
